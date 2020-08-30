@@ -9,6 +9,6 @@ also learning about Angular, React, Javascript, HTML, CSS. </p>
 <p align="center"><img src="https://media.giphy.com/media/10asTFilhbvOdW/source.gif" width="10%" height="10%" style="position:absolute" align='center' frameBorder="0"></img></p>
 <p align="center"> - 📫 How to reach me:  
 <p align="center"><a href="mailto:marcosarce04@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="whatsapp" height="30" width="30" /></a>
-<a href="www.linkedin.com/in/marcos-arce" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sftom" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/marcos-arce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sftom" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5493547634499&text=Hola!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" /></a>
 <a href="https://www.instagram.com/marcos.arce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sergio.mendonca.pro" height="30" width="30" /></a></p>
