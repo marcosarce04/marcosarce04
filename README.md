@@ -1,15 +1,17 @@
 ### 👨🏻‍💻 Hi there 🤙🏼
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosarce04" alt="marcosarce04" /> </p>
 
 - 🔭 I’m currently working as a Java Developer.
 - 🌱 I’m currently learning about Python with Django framework,  
 also learning about React, Javascript, HTML, CSS.
 - 📚 I’m currently studying information systems engineering, just a couple of classes left.
+- ⚡ Fun fact: I need coffee to code ☕. 
 - 📫 How to reach me:  
 <a href="www.linkedin.com/in/marcos-arce" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sftom" height="30" width="30" /></a>
 <a href="https://www.instagram.com/marcos.arce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sergio.mendonca.pro" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5493547634499&text=Hola!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" /></a>
 <a href="mailto:marcosarce04@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="whatsapp" height="30" width="30" /></a>
-- ⚡ Fun fact: I need coffee to code ☕. 
 
 
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/redhat/redhat-original-wordmark.svg" alt="redhat" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" height="40" width="40"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" height="40" width="40"/></p><p align="center"> </p>
 
