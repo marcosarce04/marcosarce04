@@ -6,7 +6,6 @@
 also learning about Angular, React, Javascript, HTML, CSS.
 - 📚 I’m currently studying information systems engineering, just a couple of classes left.
 - ⚡ Fun fact: I need coffee to code
-<img src="https://giphy.com/gifs/coffee-mug-bestest-10asTFilhbvOdW" width="50px"> 
 - 📫 How to reach me:  
 <a href="mailto:marcosarce04@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="whatsapp" height="30" width="30" /></a>
 <a href="www.linkedin.com/in/marcos-arce" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sftom" height="30" width="30" /></a>
