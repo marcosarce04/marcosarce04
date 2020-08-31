@@ -12,3 +12,23 @@ also learning about Angular, React, Javascript, HTML, CSS. </p>
 <a href="https://www.linkedin.com/in/marcos-arce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sftom" height="30" width="30" /></a>
 <a href="https://api.whatsapp.com/send?phone=5493547634499&text=Hola!" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="30" width="30" /></a>
 <a href="https://www.instagram.com/marcos.arce/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sergio.mendonca.pro" height="30" width="30" /></a></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/DB-MsSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/>
+<img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
+</p>
+
+<!--Other shields
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+--!>
