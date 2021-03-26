@@ -3,7 +3,7 @@
 
 <p align="center">  🔭 I’m currently working as a Back End Developer.</p>
 
-<p align="center">  🌱 I’m currently learning about Python with Django framework,  
+<p align="center">  🌱 I’m currently learning about Spring Boot, Spring Cloud and Unit Testing,  
 also learning about Angular, React, Javascript, HTML, CSS. </p>
 
 <p align="center">  📚 I’m an information systems engineering student, just a couple of classes left.</p>
